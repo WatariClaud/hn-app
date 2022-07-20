@@ -6,7 +6,7 @@ The relevant code lives in 'app/Http/Controllers' and 'routes/api.php'.
 
 Development was done on (php 7.4 & Laravel Framework 8.83)
 
-- Install dependencies ``` composer install ```
+- Install dependencies and create vendor folder ``` composer install ```
 - Run application ``` php artisan serve ``` ('__http://127.0.0.1:8000/api__' as base url).
 
 - Endpoints are appended as below:
